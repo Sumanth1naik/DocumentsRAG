@@ -1,0 +1,29 @@
+# Core LLM + RAG Framework
+langchain==0.2.14
+langchain-community==0.2.12
+langchain-openai==0.1.22
+
+# Embeddings & Vector DB
+chromadb==0.5.5
+faiss-cpu==1.8.0.post1
+tiktoken==0.7.0
+
+# LLM Providers
+openai==1.40.6
+
+# Document Processing
+pypdf==4.3.1
+python-docx==1.1.2
+unstructured==0.14.10
+
+# API Layer
+fastapi==0.115.0
+uvicorn==0.30.6
+
+# Utilities
+python-dotenv==1.0.1
+pydantic==2.8.2
+
+# Optional (Advanced)
+sentence-transformers==3.0.1
+rank-bm25==0.2.2
