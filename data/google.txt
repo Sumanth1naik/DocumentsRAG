@@ -1,0 +1,250 @@
+Introduction to
+A company built on search
+Our mission
+Google’s mission is to organize
+the world’s information and
+make it universally accessible
+and useful. As a first step to
+fulfilling this mission, Google’s
+founders Larry Page and
+Sergey Brin developed a new
+approach to online search that
+took root in a Stanford
+University dorm room and quickly spread to information seekers around the globe.
+The Google search engine is an easy-to-use, free service that consistently returns relevant results in a
+fraction of a second.
+What we do
+Google is more than a search engine. We also offer Gmail, maps, personal blogging, and web-based
+word processing products to name just a few. YouTube, the popular online video service, is part of
+Google as well.
+Most of Google’s services are free, so how do we make
+money? Much of Google’s revenue comes through our
+AdWords advertising program, which allows businesses to
+place small “sponsored links” alongside our search
+results. Prices for these ads are set by competitive
+auctions for every search term where advertisers want their
+ads to appear. We don’t sell placement in the search
+results themselves, or allow people to pay for a higher
+ranking there.
+In addition, website managers and publishers take
+advantage of our AdSense advertising program to deliver
+ads on their sites. This program generates billions of
+dollars in revenue each year for hundreds of thousands of
+websites, and is a major source of funding for the free content available across the web.
+Google also offers enterprise versions of our consumer products for businesses, organizations, and
+government entities. These productivity tools include email, search, and geospatial products.
+As of December 31, 2008, Google employed 20,222 people full-time, more than two thirds of whom
+work across our more than 20 U.S. locations.
+Driving economic growth
+Google products and online advertising offerings create economic opportunity
+for businesses large and small.
+AdWords
+It’s generally understood that Google’s free products like search,
+Gmail, and many others are supported by advertising. What is not
+as well known is that, in addition to providing useful products to
+our users, Google is a platform for and a partner to American
+businesses of all sizes.
+Google AdWords enables small businesses of all kinds to place ads for their products and services next
+to Google search results, giving them access to millions of our users around the world. Small
+businesses can set their own ad budgets and can arrange to pay only when users click on an ad. As a
+result, these businesses are able to find and connect with new customers more efficiently and costeffectively.
+Google’s ad prices are set by competitive auction, ensuring that prices are always fair and driven by
+customers – not set by Google.
+AdSense
+Google AdSense allows entrepreneurs, educators,
+bloggers, and many others to generate revenue by
+placing relevant advertising on their websites. In
+many cases, these individuals are able to dedicate
+themselves full-time to their publications because of
+the support they receive from our advertising
+programs.
+The impact of Google’s technology on the small
+business economy is significant. In 2008, we paid a
+total of $5.28 billion to AdSense partners who use
+our ads to earn money from their websites.
+Supporting content owners
+Google collaborates with hundreds of content owners to make their
+content available online and monetize it in new ways. On
+YouTube and Google Book Search, we not only give rightsholders a
+way to control access to their works, but also provide them with
+tools to reach and profit from a wide audience.
+Promoting innovation and competition
+Google products are built on the principle of openness and are designed to
+foster innovation and creativity across the web.
+Giving users control over their data
+We think users should have the ability to move their personal data
+to competing services, and we provide data export tools in most of
+our products to avoid trapping users. From Gmail and Google
+Reader, to Search History and Google Docs, we allow users to
+export their data, using open formats, to other programs. We
+strive to earn our users’ loyalty by building good products and
+constantly improving them, not by locking in users artificially.
+Google welcomes competition because it stimulates innovation, makes us all work harder, and provides
+users with more choice.
+Android
+Android is the first truly open and comprehensive platform for mobile
+devices. It includes an operating system, user-interface, and
+applications – all of the software to run a mobile phone, but without
+the proprietary obstacles that have hindered mobile innovation. We
+developed Android in cooperation with the Open Handset Alliance,
+which consists of more than 30 technology and mobile leaders
+including Motorola, Qualcomm, HTC and T-Mobile. Through
+partnerships with carriers, device manufacturers, developers, and
+others, we hope to enable an open ecosystem for the mobile world by
+creating a standard, open mobile software platform. We think the
+result will ultimately lead to a better and faster pace for innovation
+that will give mobile customers unforeseen applications and capabilities. The first Android offering, TMobile’s G-1 device, is currently on the market.
+Chrome
+Chrome, Google’s open source web browser, was designed to create a
+better web experience for users around the world. Available in beta in
+more than 40 languages, Google Chrome is a new approach to the
+browser that’s based on the simplicity and power needed to run the web
+applications of tomorrow. To further advance the openness of the web,
+Google Chrome was released as an open source project. The intent is to
+make future browsers better by contributing the underlying technology in
+Google Chrome to the market, while continuing to develop additional
+features.
+Increasing productivity and efficiency
+Cloud computing products like Google Apps are helping government,
+businesses, and organizations save money and collaborate more effectively.
+Cloud Computing 101
+Cloud computing applications allow users and
+organizations to host their files and applications
+remotely in managed datacenters and access them
+over the Internet. This means that users can reach
+their email, documents, photos, and calendar from
+wherever they are and from whatever device they
+are using.
+“The cloud” allows users to collaborate on
+documents in real time, save their data on secure
+servers instead of vulnerable personal devices, and
+access their information wherever they are. Cloud
+computing also saves money. Reducing traditional
+costs and labor associated with deploying,
+maintaining, and upgrading business technology,
+IT departments are increasingly becoming free to
+devote their limited resources to projects more
+strategic to their business.
+Google Apps
+The Google Apps suite provides organizations,
+businesses, and home users with web-based
+email, word processing, spreadsheets, calendar,
+and more. As maintaining user trust is core to
+our business, Google goes to great lengths to
+protect the data and intellectual property on
+servers that host user data. These facilities are
+protected around the clock and we have a
+dedicated security operations team who focuses
+specifically on maintaining the security of our
+environment. The controls, processes, and
+policies that protect these data have successfully
+completed an independent audit.
+Promoting government openness
+From Congressional YouTube channels to polling place locators, Google
+products are making government more transparent and responsive.
+We’re working hard to strengthen democracy and informed participation in the political process by
+equipping voters with useful information and helping policymakers and organizations use online tools
+to reach citizens. We believe more information means more choice, more freedom, and ultimately more
+power for people – and that’s what our mission is all about.
+Tools for voters and campaigns
+Our YouChoose ’08 site helped candidates use video to
+communicate directly with voters through personalized YouTube
+campaign channels. YouTube also hosted two presidential primary
+debates with CNN, primary campaign trail and conventions video
+projects, candidate spotlights, and an election day transparency
+initiative with PBS.
+Google worked with election officials to centralize official voting
+information online and allowed voters to find their polling place,
+registration information, and more with a simple one-box search.
+Empowering government participation
+The 2008 elections demonstrated how Internet technology can increase political participation. Now
+Google is empowering citizens and their government officials to use this technology to make
+government more open, accountable, and participatory.
+For the first time ever, the President is posting his weekly national address on YouTube. Congressional
+YouTube channels allow Members to communicate with their constituents in a whole new way. And
+President Obama is using Google Moderator on whitehouse.gov to field and respond directly to
+questions from people from across the country.
+Google wants to help government agencies
+make their data accessible to the public. We
+have been working with government agencies
+to implement the Sitemaps protocol, which
+makes it easy for webmasters to make their
+public pages searchable by all search
+engines. Recently the state governments of
+Arizona, California, Utah, and Virginia all implemented Sitemaps.
+Protecting user privacy and safety
+User privacy and safety are fundamental to every one of our products.
+Privacy is important to our users and to our business
+Privacy is fundamental to Google’s business. We know that if we lose our users’ trust, our competition
+is only one click away. To ensure that privacy is a focus for everyone working on our products, Google
+takes a holistic approach to privacy in which every Googler — from engineer to executive — is
+responsible for protecting our users’ privacy. As a result, effective privacy policies and features are
+built into our products according to three global
+design principles: transparency, choice, and
+security.
+To ensure transparency, we provide layered privacy policy formats, clear and timely notices and privacy
+options written in plain language, and videos for users describing our privacy features and policies. To
+promote user choice, we provide granular and meaningful privacy options. And to secure our users’
+data, we have in place state-of-the-art security and dedicated security teams.
+We make sure that our information practices are user-centric, and that our products put our users in
+control of their information. In fact, most of our products — including Google search — can be
+personalized by registering for a Google account but can also be used without registration. We also
+ensure strong restrictions on the transfer of personal information to third parties to further protect our
+users’ privacy interests.
+For more information about Google’s approach to privacy, please visit our Privacy Center, which is one
+click away from the Google.com homepage.
+Keeping families safe online
+Google is deeply committed to protecting children on the Internet and to
+providing all of our users with a safe experience. Our approach has three
+primary elements: (1) powerful tools to empower families to control their
+activity online; (2) cooperation with law enforcement and industry partners to stop illegal content and
+activity online; and (3) educational efforts to increase awareness about online safety. Using this
+approach we do the following and much more:
+• Provide parents with SafeSearch features, employ digital hashing technologies on YouTube, and
+build products that empower the community to report inappropriate content and behavior
+• Cooperate with local and federal child safety investigations with a legal team devoted to these
+efforts 24 hours a day, 7 days a week
+• Quickly remove child pornography and report it to the National Center for Missing and Exploited
+Children (NCMEC), and provide hardware and software to NCMEC to improve their ability to
+manage incoming reports
+• Work with several non-profit organizations including NCMEC, ConnectSafely.org, Common Sense
+Media, iKeepSafe, and Net Family News to provide online public service announcements that
+promote access to resources about Internet safety
+Searching for solutions at Google.org
+Google.org uses the power of information and technology to address the global
+challenges of our age.
+In 2004, when Google founders Larry Page and Sergey Brin wrote to prospective shareholders about
+their vision for the company, they outlined a commitment to contribute significant resources, including
+1% of Google’s equity and profits in some form, as well as employee time, to address some of the
+world’s most urgent problems. That commitment became Google.org. Google.org works closely with a
+broad range of “Googlers” on projects that make the most of Google’s strengths in technology and
+information. Google also established the Google Foundation in 2005, which is a separate 501(c)(3)
+private foundation. The Google Foundation is managed by Google.org and supports our mission and
+core initiatives as one of our sources of funds for grant making.
+Plugging into a smarter, greener grid
+Google engineers are developing free software called Google PowerMeter that
+when supplied with energy consumption information from a smart meter, or a
+consumer-installed home energy management device, will empower consumers
+to understand and make informed decisions about their electricity use. Our
+Renewable Energy Cheaper than Coal (RE<C) project is working to develop
+electricity from renewable energy sources that is cheaper than electricity
+produced from coal. The goal is to produce one gigawatt of renewable energy
+capacity – enough renewable energy to power a city the size of San Francisco
+– in years, not decades. As part of this effort, Google.org is making strategic
+investments and grants, advancing key public policies, and has an internal
+engineering team working on developing renewable energy technologies.
+Predict and Prevent
+Rapid ecological and social changes are increasing the risk of
+emerging threats, from infectious diseases to drought and other
+environmental disasters. Google.org uses information and technology
+to help predict and prevent emerging threats – such as infectious
+disease outbreaks – before they become local or global crises. We
+support efforts to identify hot spots where diseases may emerge,
+detect new pathogens and outbreaks earlier, and respond quickly.
+Inform and Empower
+Google.org believes that providing meaningful, easily accessible information to citizens and
+communities, service providers, and policymakers is a key part of creating home-grown solutions to
+improve the quality of public services. Better information can help governments and other providers
+spend scarce resources wisely. And, empowered by information, citizens and communities can demand
+better services from providers or develop new solutions to meet their own needs. We will work with
+public, private, and civil society partners to address each side of this problem.
