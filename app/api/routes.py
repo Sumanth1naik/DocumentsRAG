@@ -64,12 +64,21 @@ def ask_question(request: QueryRequest):
         qa_chain = get_qa_chain(vectorstore)
 
     response = qa_chain.invoke({"query": request.question})
-    sources = [doc.metadata for doc in response.get("source_documents", [])]
+    sources = []
+    for doc in response.get("source_documents", []):
+        sources.append({
+            "source": doc.metadata.get("source"),
+            "chunk_id": doc.metadata.get("chunk_id"),
+            "page": doc.metadata.get("page")
+        })
+        
+    # ✅ Remove duplicates
+    unique_sources = [dict(t) for t in {tuple(d.items()) for d in sources}]
 
     return {
-        "answer": response.get("result") or response.get("answer"),
-        "sources": sources
-    }
+    "answer": response["answer"],
+    "sources": unique_sources
+}
 
 @router.post("/chat")
 def chat(request: ChatRequest):
