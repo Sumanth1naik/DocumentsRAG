@@ -1,10 +1,10 @@
 try:
-    from langchain_community.llms import Ollama as ChatOpenAI
+    from langchain_community.llms import Ollama as LLM
 except ImportError:
     try:
-        from langchain_ollama import OllamaLLM as ChatOpenAI
+        from langchain_ollama import OllamaLLM as LLM
     except ImportError:
-        from langchain_classic.chat_models import ChatOpenAI
+        from langchain_classic.chat_models import ChatOpenAI as LLM
 
 try:
     from langchain.chains import RetrievalQA
@@ -16,17 +16,18 @@ try:
 except ImportError:
     from langchain.prompts import PromptTemplate
 
-def get_qa_chain(vectorstore):
-    retriever = vectorstore.as_retriever(
-        search_type="mmr",
-        search_kwargs={
-            "k": 5,
-            "fetch_k": 10
-        }
-    )
+from app.retrieval.vector_store import load_vector_store, get_retriever
 
-    llm = ChatOpenAI(model="tinyllama")
 
+def create_chat_chain():
+    vectorstore = load_vector_store()
+
+    # ✅ Use centralized retriever
+    retriever = get_retriever(vectorstore)
+
+    llm = LLM(model="tinyllama")
+
+    # ✅ STRONG PROMPT (VERY IMPORTANT)
     prompt = PromptTemplate(
         input_variables=["context", "question"],
         template="""
